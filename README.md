@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node js, Express js and Mongo db**
 
-- 👨‍💻 All of my projects are available at [https://girandaanugrah.github.io/Personal-Website/](https://girandaanugrah.github.io/Personal-Website/)
+- 👨‍💻 All of my projects are available at [https://giranda-personal-we.vercel.app/](https://giranda-personal-we.vercel.app/)
 
 - 💬 Ask me about **Laravel, React, Mysql**
 
